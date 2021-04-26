@@ -14,7 +14,10 @@ const colors = [
     '#35975A',
     '#41E69A',
     '#FF3D9A',
-    '#FF3D34'
+    '#FF3D34',
+    '#01FF70',
+    '#FF4136',
+    '#B10DC9'
 ]
 
 const Quotes = [{
@@ -80,6 +83,14 @@ const Quotes = [{
     {
         Quote: "Falling down is an Accident. Staying down is an choice.",
         By: "Universal"
+    },
+    {
+        Quote: "Scariest moment in your life is just before you start, after that things can get only get better.",
+        By: "Stephen King"
+    },
+    {
+        Quote: "If its important to you than do it. No matter whatever the odds are.",
+        By: "Vic Dashwood"
     }
 ]
 
